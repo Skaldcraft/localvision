@@ -1,0 +1,5 @@
+{
+  "name": "LocalVision",
+  "description": "An AI-powered tool to analyze local market data and suggest viable business opportunities based on postal code and investment capital. It helps entrepreneurs discover profitable ventures by evaluating demographics, competition, and economic profiles of a specific area.",
+  "requestFramePermissions": []
+}
